@@ -1,0 +1,1 @@
+Analyzed Walmart's retail sales data using SQL to extract key insights on sales trends, top-performing stores, holiday impacts, and operational efficiency. Queries included aggregations, filtering, and time-based analysis to support data-driven decision-making.
